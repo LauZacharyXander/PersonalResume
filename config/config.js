@@ -4,7 +4,7 @@ var config = {
     sex: "Electronic Information Engineering / Robotics",
     age: "Guangzhou, China",
     phone: '<a href="https://github.com/LauZacharyXander" target="_blank">github.com/LauZacharyXander</a>',
-    email: "ssr001lzx@stu2023.jnu.edu.cn",
+    email: "ssr001lzx@gmail.com",
     address: '<a href="https://github.com/JNUSSR" target="_blank">JNUSSR Robotics Team</a>',
     qq: '<strong>Open to opportunities in robotics, embedded systems, and embodied AI.</strong>',
     log: "LauZacharyXander",
@@ -93,7 +93,7 @@ var config = {
     icon: [
         ["./svg/github.svg", "https://github.com/LauZacharyXander", "GitHub Profile"],
         ["./svg/博客.svg", "https://github.com/JNUSSR", "JNUSSR Robotics Team"],
-        ["./svg/github.svg", "mailto:ssr001lzx@stu2023.jnu.edu.cn", "Email"]
+        ["./svg/github.svg", "mailto:ssr001lzx@gmail.com", "Email"]
     ],
 
     url: [
