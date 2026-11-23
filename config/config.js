@@ -94,7 +94,7 @@ var config = {
         ["./svg/github.svg", "https://github.com/LauZacharyXander", "GitHub Profile"],
         ["./svg/github.svg", "https://github.com/JNUSSR", "JNUSSR Robotics Team"],
         ["./svg/email.svg", "mailto:ssr001lzx@gmail.com", "Email"]
-    ]
+    ],
 
     url: [
         "./images/index_background.jpg",
