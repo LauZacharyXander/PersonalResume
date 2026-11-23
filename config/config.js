@@ -43,22 +43,22 @@ var config = {
 
     portfolio: [
         [
-            "./images/card-local-ai-council.png",
-            "https://github.com/LauZacharyXander/Local-AI-Council",
-            "Local AI Council",
-            "Local-first multi-agent deliberation system for independent answers, calibration, synthesis, and audit trails. Orchestrates multiple local AI CLIs into a review committee with full local records. v0.2 Alpha, CLI + FastAPI Web GUI."
-        ],
-        [
-            "./images/card-robocon2026.png",
+            "./images/project-2026.jpeg", // 第一张图（最左边）
             "https://github.com/JNUSSR/ROBOCON2026",
             "JNUSSR · ROBOCON 2026",
-            "Founding Captain & Electrical Control Lead. Led embedded software development for the 26th season robot, including standard and stair-climbing swerve drive chassis, weapon rod clamping, and overall structural design. Six National Third Prizes across two seasons."
+            "Founding Captain & Electrical Control Lead. Led embedded software development for the 26th season robot, including standard and stair-climbing swerve drive chassis, weapon rod clamping, and overall structural design."
         ],
         [
-            "./images/card-robocon2025.png",
+            "./images/project-2025.jpeg", // 第二张图（中间）
             "https://github.com/JNUSSR/ROBOCON2025",
             "JNUSSR · ROBOCON 2025",
-            "Founding season repository. Completed STM32 control code integration for the 25th season robot, achieving stable chassis control, dribbling, and shooting actions, alongside a fully 3D-printed dribbling mechanism."
+            "Founding season repository. Completed STM32 control code integration for the 25th season robot, achieving stable chassis control, dribbling, and shooting actions."
+        ],
+        [
+            "./images/project-council.jpg", // 第三张图（最右边）
+            "https://github.com/LauZacharyXander/Local-AI-Council",
+            "Local AI Council",
+            "Local-first multi-agent deliberation system for independent answers, calibration, synthesis, and audit trails. Orchestrates multiple local AI CLIs into a review committee."
         ]
     ],
 
