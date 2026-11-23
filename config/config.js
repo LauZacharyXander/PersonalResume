@@ -93,7 +93,7 @@ var config = {
     icon: [
         ["./svg/github.svg", "https://github.com/LauZacharyXander", "GitHub Profile"],
         ["./svg/github.svg", "https://github.com/JNUSSR", "JNUSSR Robotics Team"],
-        ["data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4=", "mailto:ssr001lzx@gmail.com", "Email"]
+        ["./svg/email.svg", "mailto:ssr001lzx@gmail.com", "Email"]
     ]
 
     url: [
