@@ -19,26 +19,26 @@ var config = {
 
     welcome: "Electronic Information Engineering @ Jinan University<br>ROBOCON Founding Captain · Embedded Systems · Robotics<br>Building things that move, sense, and compete.",
 
-    about: "<p>我是刘志轩（Liu Zhixuan），暨南大学电子信息工程专业本科生，GPA 4.06/5.0，专业排名 2/139（Top 1.4%）。</p>" +
-        "<p>我专注于机器人控制、嵌入式系统与具身智能。作为 JNUSSR 战队创始队长，带领 40 人团队在两个赛季中获得六项国家级三等奖，并主导 STM32 控制代码集成与 3D 打印机构设计。</p>" +
-        "<p>在 Local AI Council 项目中，我探索本地多智能体协作在技术决策与审计中的应用，将多个本地 AI CLI 组织成具备独立回答、校准、综合与审计追踪的评审委员会。</p>" +
-        "<p>我相信好的工程不仅要在实验室里跑通，更要在赛场上、在真实约束下稳定运行。</p>",
+    about: "<p>I am Liu Zhixuan, an undergraduate majoring in Electronic Information Engineering at Jinan University (GPA 4.06/5.0, Top 1.4%).</p>" +
+        "<p><strong>As the Founding Captain of the JNUSSR Robotics Team</strong>—the first robotics team in the university's history—I built the team from the ground up. I led a 40-member team across two ROBOCON seasons, securing six National Third Prizes. I also established a comprehensive talent pipeline, covering programming, STM32 development, mechanical design, and team selection.</p>" +
+        "<p>My core technical focus lies in robotics control, embedded systems, and mechanical design. I have led STM32 control integration, designed 3D-printed mechanisms, and engineered swerve drive chassis. Additionally, I have experience in embodied AI through my work on a bionic dexterous hand (National-Level Innovation Project).</p>" +
+        "<p>I believe great engineering means building systems that not only work in the lab but also perform reliably in the real world and on the competition field.</p>",
 
     skills: [
-        ["C / C++ / Embedded", 92, "#00ADD8"],
+        ["C / C++ / Embedded", 95, "#00ADD8"],
         ["Python", 88, "#f89820"],
-        ["ROS / Robotics", 85, "#7c3aed"],
-        ["STM32 / Motor Control", 90, "#14b8a6"],
-        ["Mechanical Design (SolidWorks/ANSYS)", 82, "#22c55e"],
-        ["AI / Local LLM Orchestration", 80, "#f59e0b"]
+        ["ROS / Robotics", 90, "#7c3aed"],
+        ["STM32 / Motor Control", 92, "#14b8a6"],
+        ["Mechanical Design (SolidWorks/ANSYS)", 90, "#22c55e"],
+        ["AI / Local LLM Orchestration", 82, "#f59e0b"]
     ],
 
     skills_description: "<ul>" +
-        "<li>嵌入式开发：STM32、FreeRTOS、电机驱动、IMU、OpenMV/OpenCV 视觉。</li>" +
-        "<li>机器人软件：ROS 基础、MPC 控制、无传感器外力估计。</li>" +
-        "<li>机械与仿真：SolidWorks、ANSYS Workbench、V-Rep，可独立完成结构设计、装配与调试。</li>" +
-        "<li>AI 工程：Local AI Council 多智能体编排、审计追踪、本地 CLI/GUI 集成。</li>" +
-        "<li>团队与工程管理：40 人战队创始队长，搭建 C/STM32/机械/3D 打印培养管线。</li>" +
+        "<li><strong>Team Leadership & Engineering Management:</strong> Founded the first university robotics team; built a complete talent training and selection pipeline (C/STM32/Mechanical/3D Printing) for a 40-member team.</li>" +
+        "<li><strong>Robotics & Control:</strong> STM32, FreeRTOS, motor drive, IMU, ROS basics, MPC control, and sensorless external force estimation.</li>" +
+        "<li><strong>Mechanical Design & Simulation:</strong> SolidWorks, ANSYS Workbench, V-Rep. Capable of independently designing, assembling, and debugging complex robotic structures.</li>" +
+        "<li><strong>Embedded & Vision:</strong> Proficient in C/C++, Python; experienced with OpenMV/OpenCV for robotic vision tasks.</li>" +
+        "<li><strong>Software Engineering:</strong> Familiar with local multi-agent orchestration and CLI/GUI integration (e.g., Local AI Council project).</li>" +
         "</ul>",
 
     portfolio: [
