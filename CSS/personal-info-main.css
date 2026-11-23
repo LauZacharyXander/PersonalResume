@@ -925,3 +925,11 @@ html {
     bottom: 0;
     margin-bottom: 0;
 }
+
+/* 限制底部社交图标的大小 */
+.icon-insert img {
+    width: 32px !important;
+    height: 32px !important;
+    object-fit: contain;
+    margin: 0 10px;
+}
